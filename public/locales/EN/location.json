@@ -1,0 +1,45 @@
+{
+    "title": "List of Location",
+    "port_no": "No",
+    "code": "Code",
+    "name": "Name",
+    "country_name": "Country",
+    "type_of_port": "Type of Location",
+    "company":"Management Company",
+    "status":"Status",
+    
+    "information_add_port": "Add New Location",
+    "information_edit_port": "Edit Location",
+
+    "location_code_form": {
+        "title": "Code",
+        "placeholder": "Enter location code",
+        "error_required": "Please enter location Code"
+    },
+    "location_name_form": {
+        "title": "Location Name",
+        "titleEn": "Location name (EN)",
+        "titleVn": "Location name (VN)",
+        "placeholder": "Enter Location name",
+        "error_required": "Please enter location name"
+    },
+    "type_location_form": {
+        "title": "Type Of Location",
+        "placeholder": "Enter type of location",
+        "error_required": "Please enter type of location"
+    },
+    "city_form": {
+        "title": "City",
+        "placeholder": "Enter city",
+        "error_required": "Please enter city"
+    }, 
+    "status_location_form": {
+        "title": "Status",
+        "placeholder": "Select status",
+        "error_required": "Please select status"
+    },
+    "description_form": {
+        "title": "Description",
+        "placeholder": "Please enter description"
+    }
+}

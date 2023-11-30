@@ -1,0 +1,24 @@
+import Head from 'next/head';
+import withAuthentication from '@/hook/useAuthentication';
+import ManagerPartner from '@/components/menu-item/partner/manager';
+
+function ManagerPartnerPage() {
+  return (
+    <>
+      <Head>
+        <title>sea | MANAGER PARTNER</title>
+      </Head>
+      <ManagerPartner />
+    </>
+  );
+}
+
+export default withAuthentication(ManagerPartnerPage);
+import { getStatic } from '@/lib/getStaticProps';
+export const getStaticProps = getStatic(['common', 'partner']);
+export const getStaticPaths = () => {
+  return {
+    paths: [],
+    fallback: true,
+  };
+};

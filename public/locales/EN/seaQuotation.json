@@ -1,0 +1,179 @@
+{
+    "title": "List of Sea Quotation",
+    "no" : "No",
+    "code": "Code",
+    "POL": "POL",
+    "POD": "POD",
+    "destination": "Destination",
+    "country": "Country",
+    "customerID": "Customer ID",
+    "carrier": "Carrier",
+    "service": "Service",
+    "commodity": "Commodity",
+    "LCLMin": "LCLMin",
+    "LCL": "LCL",
+    "type": "Type",
+    "currency": "Currency",
+    "vat": "VAT",
+    "effect_date": "Effect Date",
+    "validity": "Validity",
+    "freq": "Freq",
+    "Cutoff": "Cut Off",
+    "TT": "TT",
+    "inl_addon": "InlAddon",
+    "empty_return": "Empty Return",
+    "amend": "Amend",
+    "DEM": "DEM",
+    "DET": "DET",
+    "STO": "STO",
+    "modify_date": "Modify Date",
+    "status": "Status",
+    "note": "Note",
+    "date_created": "Date created",
+    "creator": "Creator",
+
+    "title_list_of_customer": "List of Customer",
+    "title_sea_freight": "Sea Freight",
+    "title_local_chart": "Local Chart",
+    "information_add_sea_quotation": "Add New Sea Quotation",
+    "information_edit_sea_quotation": "Edit Sea Quotation",
+    
+    "POL_form": {
+        "title": "POL",
+        "placeholder": "Enter POL",
+        "error_required": "Please enter POL"
+    },
+
+    "POD_form": {
+        "title": "POD",
+        "placeholder": "Enter POD",
+        "error_required": "Please enter POD"
+    },
+
+    "destination_form": {
+        "title": "Destination",
+        "placeholder": "Enter destination",
+        "error_required": "Please enter destination"
+    },
+
+    "country_form": {
+        "title": "Country",
+        "placeholder": "Enter country",
+        "error_required": "Please enter country"
+    },
+
+    "customerID_form": {
+        "title": "Customer ID",
+        "placeholder": "Enter Customer ID",
+        "error_required": "Please enter Customer ID"
+    },
+
+    "carrier_form": {
+        "title": "Carrier",
+        "placeholder": "Enter carrier",
+        "error_required": "Please enter carrier"
+    },
+
+    "service_form": {
+        "title": "Service",
+        "placeholder": "Enter service",
+        "error_required": "Please enter service"
+    },
+
+    "commodity_form": {
+        "title": "commodity",
+        "placeholder": "Enter commodity",
+        "error_required": "Please enter commodity"
+    },
+
+    "LCLMin_form": {
+        "title": "LCLMin",
+        "placeholder": "Enter LCLMin",
+        "error_required": "Please enter LCLMin"
+    },
+
+    "LCL_form": {
+        "title": "LCL",
+        "placeholder": "Enter LCL",
+        "error_required": "Please enter LCL"
+    },
+
+    "type_form": {
+        "title": "Type",
+        "placeholder": "Enter type",
+        "error_required": "Please enter type"
+    },
+
+    "currency_form": {
+        "title": "Currency",
+        "placeholder": "Enter currency",
+        "error_required": "Please enter currency"
+    },
+
+    "VAT_form": {
+        "title": "VAT",
+        "placeholder": "Enter VAT",
+        "error_required": "Please enter VAT"
+    },
+
+    "effect_date_form": {
+        "title": "Effect Date",
+        "placeholder": "Enter Effect Date",
+        "error_required": "Please enter Effect Date"
+    },
+
+    "validity_form": {
+        "title": "Validity",
+        "placeholder": "Enter validity",
+        "error_required": "Please enter validity"
+    },
+
+    "freq_form": {
+        "title": "Freq",
+        "placeholder": "Enter freq",
+        "error_required": "Please enter freq"
+    },
+
+
+    "empty_return_form": {
+        "title": "empty_return",
+        "placeholder": "Enter empty_return",
+        "error_required": "Please enter empty_return"
+    },
+
+    "DEM_form": {
+        "title": "DEM",
+        "placeholder": "Enter DEM",
+        "error_required": "Please enter DEM"
+    },
+
+    "DET_form": {
+        "title": "DET",
+        "placeholder": "Enter DET",
+        "error_required": "Please enter DET"
+    },
+
+    "STO_form": {
+        "title": "STO",
+        "placeholder": "Enter STO",
+        "error_required": "Please enter STO"
+    },
+
+    "Fee_Group_form": {
+        "title": "Fee group",
+        "placeholder": "Enter fee group",
+        "error_required": "Please enter fee group"
+    },
+    
+    "vendor_form": {
+        "title": "Vendor",
+        "placeholder": "Enter vendor",
+        "error_required": "Please enter vendor"
+    },
+
+    "modify_date_placeholder": "Please input modify date",
+    "status_placeholder": "Please select status",
+    "note_placeholder": "Please input note",
+    "date_created_placeholder": "Please select date created",
+    "creator_placeholder": "Please select creator"
+}

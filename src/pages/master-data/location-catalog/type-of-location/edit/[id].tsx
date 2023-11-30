@@ -1,0 +1,24 @@
+import Head from 'next/head';
+import withAuthentication from '@/hook/useAuthentication';
+import EditLocationType from '@/components/menu-item/master-data/location-catalog/type-of-location/edit';
+
+function TypeOfLocationEditPage() {
+  return (
+    <>
+      <Head>
+        <title>sea | LOCATION TYPE EDIT</title>
+      </Head>
+      <EditLocationType />
+    </>
+  );
+}
+
+export default withAuthentication(TypeOfLocationEditPage);
+import { getStatic } from '@/lib/getStaticProps';
+export const getStaticProps = getStatic(['common', 'typeOfLocation']);
+export const getStaticPaths = () => {
+  return {
+    paths: [],
+    fallback: true,
+  };
+};

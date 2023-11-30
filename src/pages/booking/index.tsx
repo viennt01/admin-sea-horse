@@ -1,0 +1,18 @@
+import Head from 'next/head';
+import withAuthentication from '@/hook/useAuthentication';
+import BookingPage from '@/components/menu-item/booking';
+
+function Booking() {
+  return (
+    <>
+      <Head>
+        <title>sea | BOOKING</title>
+      </Head>
+      <BookingPage />
+    </>
+  );
+}
+
+export default withAuthentication(Booking);
+import { getStatic } from '@/lib/getStaticProps';
+export const getStaticProps = getStatic(['common', 'booking']);

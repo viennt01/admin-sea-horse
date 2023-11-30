@@ -1,0 +1,43 @@
+{
+    "title": "Danh sách đơn vị tính",
+    "code": "Stt",
+    "international_code": "Mã quốc tế",
+    "description": "Mô tả",
+    "type_unit": "Loại đơn vị tính",
+    "status": "Trạng thái",
+    "date_created": "Ngày tạo",
+    "creator": "Người tạo",
+
+    "information_add_unit": "Thêm mới đơn vị tính",
+    "information_edit_unit": "Chỉnh sửa đơn vị tính",
+    
+    "international_code_form": {
+        "title": "Mã quốc tế",
+        "placeholder": "Nhập mã quốc tế",
+        "error_required": "Vui lòng nhập mã quốc tế"
+    },
+    
+    "status_form": {
+        "title": "Trạng thái",
+        "placeholder": "Chọn trạng thái",
+        "error_required": "Vui lòng chọn trạng thái"
+    },
+
+    "description_vn_form": {
+        "title": "Mô tả bằng tiếng Việt",
+        "placeholder": "Nhập mô tả bằng tiếng Việt",
+        "error_required": "Vui lòng nhập mô tả bằng tiếng Việt"
+    },
+    
+    "description_en_form": {
+        "title": "Mô tả bằng tiếng Anh",
+        "placeholder": "Nhập mô tả bằng tiếng Anh",
+        "error_required": "Vui lòng nhập mô tả bằng tiếng Anh"
+    },
+
+    "unit_type_form": {
+        "title": "Loại",
+        "placeholder": "Chọn loại đơn vị tính",
+        "error_required": "Vui lòng chọn loại đơn vị tínht"
+    }
+}

@@ -1,0 +1,24 @@
+import Head from 'next/head';
+import withAuthentication from '@/hook/useAuthentication';
+import EditSeaPricing from '@/components/menu-item/pricing/sea/edit';
+
+function PricingSeaEditPage() {
+  return (
+    <>
+      <Head>
+        <title>sea | SEA PRICING EDIT</title>
+      </Head>
+      <EditSeaPricing />
+    </>
+  );
+}
+
+export default withAuthentication(PricingSeaEditPage);
+import { getStatic } from '@/lib/getStaticProps';
+export const getStaticProps = getStatic(['common', 'pricingSea']);
+export const getStaticPaths = () => {
+  return {
+    paths: [],
+    fallback: true,
+  };
+};

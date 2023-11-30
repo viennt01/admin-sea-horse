@@ -1,0 +1,40 @@
+{
+    "title": "Danh sách các nhóm phí khác",
+    "no" : "No",
+    "fee_group_code": "Mã",
+    "fee_group_name": "Tên",
+    "type_of_fee_group": "Loại nhóm phí",
+    "status": "Trạng thái",
+    "date_created": "Ngày tạo",
+    "creator": "Người tạo",
+    "date_start": "Ngày bắt đầu",
+    "date_expiration": "Ngày hết hạn",
+    "date_inserted": "Ngày cập nhật",
+    "inserter": "Người cập nhật",
+
+    "information_add_fee_group": "Thêm mới nhóm phí",
+    "information_edit_fee_group": "Chỉnh sửa nhóm phí",
+
+    "fee_group_code_form": {
+        "title": "Mã",
+        "placeholder": "Nhập mã nhóm phí",
+        "error_required": "Vui lòng nhập mã nhóm phí"
+    },
+    "type_fee_group_code_form": {
+        "title": "Loại",
+        "placeholder": "Nhập loại",
+        "error_required": "Vui lòng nhập loại"
+    },
+    "fee_group_name_form": {
+        "title": "Tên",
+        "titleEn": "Tên nhóm phí bằng tiếng Anh",
+        "titleVn": "Tên nhóm phí bằng tiếng Việt",
+        "placeholder": "Nhập tên nhóm phí",
+        "error_required": "Vui lòng nhập tên nhóm phí"
+    },
+    "type_of_fee_group_form": {
+        "title": "Loại nhóm phí",
+        "placeholder": "Nhập loại nhóm phí",
+        "error_required": "Vui lòng chọn loại nhóm phí"
+    }
+}
