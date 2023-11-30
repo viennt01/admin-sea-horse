@@ -76,7 +76,7 @@ export default function LoginPage() {
         <div className={style.leftPanel}>
           <div className={style.content}>
             <h3>Do not have an account ?</h3>
-            <p>Create an account to explore more about ABC!</p>
+            <p>Create an account to explore more about ASL!</p>
             <button
               onClick={onClickAnimationChangeForm}
               className={style.btnPanelSignUp}
@@ -101,7 +101,7 @@ export default function LoginPage() {
           />
           <div className={style.content}>
             <h3>Already have an account ?</h3>
-            <p>Sign in and visit ABC Website! Let&apos;s Go!</p>
+            <p>Sign in and visit ASL Website! Let&apos;s Go!</p>
             <button
               onClick={onClickAnimationChangeForm}
               className={style.btnPanelSignIn}

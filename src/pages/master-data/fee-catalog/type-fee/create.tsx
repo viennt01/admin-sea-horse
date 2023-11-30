@@ -6,7 +6,7 @@ function CreateTypeFeePage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE TYPE FEE</title>
+        <title>ASL | CREATE TYPE FEE</title>
       </Head>
       <CreateTypeFee />
     </>

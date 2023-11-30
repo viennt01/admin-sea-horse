@@ -6,7 +6,7 @@ function CreateSeaPricingPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE SEA PRICING</title>
+        <title>ASL | CREATE SEA PRICING</title>
       </Head>
       <CreateSeaPricing />
     </>

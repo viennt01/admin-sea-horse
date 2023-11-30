@@ -6,7 +6,7 @@ function ManagerTypeOfLoadCapacityPage() {
   return (
     <>
       <Head>
-        <title>sea | MANAGER LOAD CAPACITY TYPE</title>
+        <title>ASL | MANAGER LOAD CAPACITY TYPE</title>
       </Head>
       <ManagerTypeOfLoadCapacity />
     </>

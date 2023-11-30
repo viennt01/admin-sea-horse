@@ -102,11 +102,11 @@ export default function CreateBooking() {
           request={async () => [
             {
               value: '1',
-              label: 'ABCU4824373',
+              label: 'ASLU4824373',
             },
             {
               value: '2',
-              label: 'ABCU4824376',
+              label: 'ASLU4824376',
             },
           ]}
           width="md"

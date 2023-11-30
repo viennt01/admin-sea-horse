@@ -6,7 +6,7 @@ function DeclarationManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | MANAGER DECLARATION TYPE</title>
+        <title>ASL | MANAGER DECLARATION TYPE</title>
       </Head>
       <ManagerTypeDeclaration />
     </>

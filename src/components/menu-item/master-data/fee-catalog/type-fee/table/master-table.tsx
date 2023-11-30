@@ -493,7 +493,7 @@ export default function MasterDataTable() {
       const url = window.URL.createObjectURL(new Blob([data]));
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', `SEA_TYPE_FEE_${getSystemDate()}.xlsx`);
+      link.setAttribute('download', `ASL_TYPE_FEE_${getSystemDate()}.xlsx`);
       document.body.appendChild(link);
       link.click();
       window.URL.revokeObjectURL(url);
@@ -546,7 +546,7 @@ export default function MasterDataTable() {
       const url = window.URL.createObjectURL(new Blob([data]));
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', `SEA_TYPE_FEE_${getSystemDate()}.xlsx`);
+      link.setAttribute('download', `ASL_TYPE_FEE_${getSystemDate()}.xlsx`);
       document.body.appendChild(link);
       link.click();
       window.URL.revokeObjectURL(url);

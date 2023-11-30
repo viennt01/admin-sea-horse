@@ -6,7 +6,7 @@ function LocationManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | LOCATION MANAGER</title>
+        <title>ASL | LOCATION MANAGER</title>
       </Head>
       <ManagerLocation />
     </>

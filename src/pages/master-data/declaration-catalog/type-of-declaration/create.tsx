@@ -6,7 +6,7 @@ function CreateDeclarationPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE DECLARATION TYPE</title>
+        <title>ASL | CREATE DECLARATION TYPE</title>
       </Head>
       <CreateTypeDeclaration />
     </>

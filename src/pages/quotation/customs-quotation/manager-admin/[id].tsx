@@ -6,7 +6,7 @@ function CustomQuotationManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | CUSTOM QUOTATION MANAGER</title>
+        <title>ASL | CUSTOM QUOTATION MANAGER</title>
       </Head>
       <ManagerCustomsQuotation />
     </>

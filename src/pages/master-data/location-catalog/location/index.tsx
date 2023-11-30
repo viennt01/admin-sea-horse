@@ -6,7 +6,7 @@ function Location() {
   return (
     <>
       <Head>
-        <title>sea | LOCATION</title>
+        <title>ASL | LOCATION</title>
       </Head>
       <LocationPage />
     </>

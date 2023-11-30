@@ -6,7 +6,7 @@ function TypeOfLoadCapacityPage() {
   return (
     <>
       <Head>
-        <title>sea | TYPE OF LOAD CAPACITY</title>
+        <title>ASL | TYPE OF LOAD CAPACITY</title>
       </Head>
       <TypeOfLoadCapacity />
     </>

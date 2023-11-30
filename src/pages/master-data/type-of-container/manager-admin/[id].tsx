@@ -6,7 +6,7 @@ function TypeOfContainerManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | TYPE OF CONTAINER MANAGER</title>
+        <title>ASL | TYPE OF CONTAINER MANAGER</title>
       </Head>
       <ManagerTypeOfContainer />
     </>

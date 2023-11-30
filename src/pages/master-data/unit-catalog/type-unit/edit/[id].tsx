@@ -6,7 +6,7 @@ function UnitEditPage() {
   return (
     <>
       <Head>
-        <title>sea | UNIT TYPE EDIT</title>
+        <title>ASL | UNIT TYPE EDIT</title>
       </Head>
       <EditTypeUnit />
     </>

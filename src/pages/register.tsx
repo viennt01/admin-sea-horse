@@ -8,7 +8,7 @@ function RegisterPage() {
   return (
     <>
       <Head>
-        <title>sea | REGISTER</title>
+        <title>ASL | REGISTER</title>
       </Head>
       <main className={inter.className}>
         <RegisterV2 />

@@ -6,7 +6,7 @@ function CreateUnitPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE UNIT</title>
+        <title>ASL | CREATE UNIT</title>
       </Head>
       <CreateUnit />
     </>

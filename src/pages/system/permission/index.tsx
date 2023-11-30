@@ -6,7 +6,7 @@ function Permission() {
   return (
     <>
       <Head>
-        <title>sea | PERMISSION</title>
+        <title>ASL | PERMISSION</title>
       </Head>
       <PermissionPage />
     </>

@@ -6,7 +6,7 @@ function CreateAirPricingPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE AIR PRICING</title>
+        <title>ASL | CREATE AIR PRICING</title>
       </Head>
       <CreateAirPricing />
     </>

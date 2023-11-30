@@ -6,7 +6,7 @@ function ForgotPassword() {
   return (
     <>
       <Head>
-        <title>sea | FORGOT PASSWORD</title>
+        <title>ASL | FORGOT PASSWORD</title>
       </Head>
       <main className={inter.className}>
         <ForgotPasswordPage />

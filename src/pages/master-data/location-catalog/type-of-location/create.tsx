@@ -6,7 +6,7 @@ function CreateCurrencyPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE LOCATION TYPE</title>
+        <title>ASL | CREATE LOCATION TYPE</title>
       </Head>
       <CreateLocationType />
     </>

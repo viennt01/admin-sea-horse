@@ -6,7 +6,7 @@ function ManagerTruckingPricingPage() {
   return (
     <>
       <Head>
-        <title>sea | TRUCKING PRICING MANAGER</title>
+        <title>ASL | TRUCKING PRICING MANAGER</title>
       </Head>
       <ManagerTruckingPricing />
     </>

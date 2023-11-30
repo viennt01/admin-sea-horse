@@ -6,7 +6,7 @@ function CustomPricingManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | MANAGER CUSTOM PRICING</title>
+        <title>ASL | MANAGER CUSTOM PRICING</title>
       </Head>
       <ManagerCustomPricing />
     </>

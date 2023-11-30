@@ -6,7 +6,7 @@ function PricingSeaEditPage() {
   return (
     <>
       <Head>
-        <title>sea | AIR PRICING EDIT</title>
+        <title>ASL | AIR PRICING EDIT</title>
       </Head>
       <EditAirPricing />
     </>

@@ -6,7 +6,7 @@ function ManagerStaffPage() {
   return (
     <>
       <Head>
-        <title>sea | MANAGER STAFF</title>
+        <title>ASL | MANAGER STAFF</title>
       </Head>
       <ManagerStaff />
     </>

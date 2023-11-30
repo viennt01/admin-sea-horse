@@ -6,7 +6,7 @@ function TruckingQuotationEditPage() {
   return (
     <>
       <Head>
-        <title>sea | TRUCKING QUOTATION EDIT</title>
+        <title>ASL | TRUCKING QUOTATION EDIT</title>
       </Head>
       <EditTruckQuotation />
     </>

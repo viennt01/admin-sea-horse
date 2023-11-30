@@ -6,7 +6,7 @@ function EditPartnerPage() {
   return (
     <>
       <Head>
-        <title>sea | EDIT PARTNER</title>
+        <title>ASL | EDIT PARTNER</title>
       </Head>
       <EditPartner />
     </>

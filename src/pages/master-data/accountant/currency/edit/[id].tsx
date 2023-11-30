@@ -6,7 +6,7 @@ function CurrencyEditPage() {
   return (
     <>
       <Head>
-        <title>sea | CURRENCY EDIT</title>
+        <title>ASL | CURRENCY EDIT</title>
       </Head>
       <EditCurrency />
     </>

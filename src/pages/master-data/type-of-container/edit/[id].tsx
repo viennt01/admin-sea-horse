@@ -6,7 +6,7 @@ function TypeOfContainerEditPage() {
   return (
     <>
       <Head>
-        <title>sea | TYPE OF CONTAINER EDIT</title>
+        <title>ASL | TYPE OF CONTAINER EDIT</title>
       </Head>
       <EditTypeOfContainer />
     </>

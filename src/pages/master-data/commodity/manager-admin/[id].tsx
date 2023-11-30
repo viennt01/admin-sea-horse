@@ -6,7 +6,7 @@ function Commodity() {
   return (
     <>
       <Head>
-        <title>sea | COMMODITY MANAGER</title>
+        <title>ASL | COMMODITY MANAGER</title>
       </Head>
       <CommodityPage />
     </>

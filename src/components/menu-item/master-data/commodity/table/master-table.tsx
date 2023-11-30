@@ -476,7 +476,7 @@ export default function MasterDataTable() {
       const url = window.URL.createObjectURL(new Blob([data]));
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', `SEA_COMMODITY${getSystemDate()}.xlsx`);
+      link.setAttribute('download', `ASL_COMMODITY${getSystemDate()}.xlsx`);
       document.body.appendChild(link);
       link.click();
       window.URL.revokeObjectURL(url);
@@ -532,7 +532,7 @@ export default function MasterDataTable() {
       // Tạo một thẻ a để tạo sự kiện nhấp chuột và tải xuống tệp
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', `SEA_COMMODITY${getSystemDate()}.xlsx`); // Tên tệp bạn muốn đặt
+      link.setAttribute('download', `ASL_COMMODITY${getSystemDate()}.xlsx`); // Tên tệp bạn muốn đặt
 
       // Thêm thẻ a vào DOM và kích hoạt sự kiện nhấp chuột để tải xuống
       document.body.appendChild(link);

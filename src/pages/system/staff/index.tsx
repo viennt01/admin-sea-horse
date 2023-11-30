@@ -6,7 +6,7 @@ function StaffPage() {
   return (
     <>
       <Head>
-        <title>sea | STAFF</title>
+        <title>ASL | STAFF</title>
       </Head>
       <Staff />
     </>

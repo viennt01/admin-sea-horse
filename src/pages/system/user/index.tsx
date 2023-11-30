@@ -6,7 +6,7 @@ function User() {
   return (
     <>
       <Head>
-        <title>sea | USER</title>
+        <title>ASL | USER</title>
       </Head>
       <UserPage />
     </>

@@ -6,7 +6,7 @@ function SeaQuotationEditPage() {
   return (
     <>
       <Head>
-        <title>sea | SEA QUOTATION EDIT</title>
+        <title>ASL | SEA QUOTATION EDIT</title>
       </Head>
       {/* <EditSeaQuotation /> */}
     </>

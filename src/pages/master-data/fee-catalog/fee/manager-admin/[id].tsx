@@ -5,7 +5,7 @@ function FeeManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | FEE MANAGER</title>
+        <title>ASL | FEE MANAGER</title>
       </Head>
       <ManagerFee />
     </>

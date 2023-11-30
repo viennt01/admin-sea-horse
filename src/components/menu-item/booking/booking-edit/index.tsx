@@ -282,11 +282,11 @@ export default function EditBooking() {
                     options={[
                       {
                         value: '1',
-                        label: 'ABCU4824373',
+                        label: 'ASLU4824373',
                       },
                       {
                         value: '2',
-                        label: 'ABCU4824373',
+                        label: 'ASLU4824373',
                       },
                     ]}
                     placeholder={translateBooking('container_code_placeholder')}

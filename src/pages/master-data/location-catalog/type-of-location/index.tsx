@@ -6,7 +6,7 @@ function TypeOfLocation() {
   return (
     <>
       <Head>
-        <title>sea | TYPE OF LOCATION</title>
+        <title>ASL | TYPE OF LOCATION</title>
       </Head>
       <TypeOfLocationPage />
     </>

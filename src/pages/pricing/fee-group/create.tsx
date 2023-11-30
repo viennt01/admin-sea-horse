@@ -6,7 +6,7 @@ function CreateFeeGroupPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE FEE GROUP</title>
+        <title>ASL | CREATE FEE GROUP</title>
       </Head>
       <CreateFeeGroup />
     </>

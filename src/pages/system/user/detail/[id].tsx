@@ -6,7 +6,7 @@ function UserDetail() {
   return (
     <>
       <Head>
-        <title>sea | USER DETAIL</title>
+        <title>ASL | USER DETAIL</title>
       </Head>
       <DetailUser />
     </>

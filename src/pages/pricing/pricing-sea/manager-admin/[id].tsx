@@ -6,7 +6,7 @@ function SeaPricingManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | SEA PRICING MANAGER</title>
+        <title>ASL | SEA PRICING MANAGER</title>
       </Head>
       <ManagerSeaPricing />
     </>

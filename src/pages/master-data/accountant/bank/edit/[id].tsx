@@ -6,7 +6,7 @@ function BankEditPage() {
   return (
     <>
       <Head>
-        <title>sea | BANK EDIT</title>
+        <title>ASL | BANK EDIT</title>
       </Head>
       <EditBank />
     </>

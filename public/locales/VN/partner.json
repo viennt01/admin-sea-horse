@@ -109,9 +109,9 @@
         "error_required": "Vui lòng nhập ngôn ngữ"
     },
     "aslPersonalContactID_form": {
-        "title": "Personal Contact",
-        "placeholder": "Nhập personal contact",
-        "error_required": "Vui lòng nhập personal contact"
+        "title": "Personal Contact (ASL)",
+        "placeholder": "Nhập personal contact (ASL)",
+        "error_required": "Vui lòng nhập personal contact (ASL)"
     },
     "note_form": {
         "title": "Ghi chú",

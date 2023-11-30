@@ -6,7 +6,7 @@ function PricingCustomEditPage() {
   return (
     <>
       <Head>
-        <title>sea | CUSTOM PRICING EDIT</title>
+        <title>ASL | CUSTOM PRICING EDIT</title>
       </Head>
       <EditCustomPricing />
     </>

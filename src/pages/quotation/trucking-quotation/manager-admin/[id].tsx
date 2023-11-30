@@ -6,7 +6,7 @@ function TruckingQuotationManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | TRUCKING QUOTATION MANAGER</title>
+        <title>ASL | TRUCKING QUOTATION MANAGER</title>
       </Head>
       <ManagerTruckQuotation />
     </>

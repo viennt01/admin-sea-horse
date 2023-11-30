@@ -502,7 +502,7 @@ export default function MasterDataTable() {
       link.href = url;
       link.setAttribute(
         'download',
-        `SEA_TYPE_FEE_GROUP${getSystemDate()}.xlsx`
+        `ASL_TYPE_FEE_GROUP${getSystemDate()}.xlsx`
       );
       document.body.appendChild(link);
       link.click();
@@ -558,7 +558,7 @@ export default function MasterDataTable() {
       link.href = url;
       link.setAttribute(
         'download',
-        `SEA_TYPE_FEE_GROUP${getSystemDate()}.xlsx`
+        `ASL_TYPE_FEE_GROUP${getSystemDate()}.xlsx`
       );
       document.body.appendChild(link);
       link.click();

@@ -6,7 +6,7 @@ function CreateLocationPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE LOCATION</title>
+        <title>ASL | CREATE LOCATION</title>
       </Head>
       <CreateLocation />
     </>

@@ -6,7 +6,7 @@ function TypeUnit() {
   return (
     <>
       <Head>
-        <title>sea | TYPE UNIT</title>
+        <title>ASL | TYPE UNIT</title>
       </Head>
       <CalculationTypeUnit />
     </>

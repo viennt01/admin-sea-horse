@@ -6,7 +6,7 @@ function CreateStaffPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE STAFF</title>
+        <title>ASL | CREATE STAFF</title>
       </Head>
       <CreateStaff />
     </>

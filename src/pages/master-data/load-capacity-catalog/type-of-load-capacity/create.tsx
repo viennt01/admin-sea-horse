@@ -6,7 +6,7 @@ function CreateLoadCapacityTypePage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE LOAD CAPACITY TYPE</title>
+        <title>ASL | CREATE LOAD CAPACITY TYPE</title>
       </Head>
       <CreateLoadCapacityType />
     </>

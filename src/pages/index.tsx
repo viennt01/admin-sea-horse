@@ -9,7 +9,7 @@ function Login() {
   return (
     <>
       <Head>
-        <title>sea | LOGIN</title>
+        <title>ASL | LOGIN</title>
       </Head>
       <main className={inter.className}>
         <L />

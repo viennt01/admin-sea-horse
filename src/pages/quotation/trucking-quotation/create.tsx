@@ -6,7 +6,7 @@ function CreateTruckingQuotationPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE TRUCKING QUOTATION</title>
+        <title>ASL | CREATE TRUCKING QUOTATION</title>
       </Head>
       <CreateTruckingQuotation />
     </>

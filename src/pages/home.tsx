@@ -9,7 +9,7 @@ function Home() {
   return (
     <>
       <Head>
-        <title>sea | HOME</title>
+        <title>ASL | HOME</title>
       </Head>
       <main className={inter.className}>
         <DashboardPage />

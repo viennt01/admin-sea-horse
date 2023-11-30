@@ -6,7 +6,7 @@ function TypeOfDeclarationPage() {
   return (
     <>
       <Head>
-        <title>sea | TYPE OF DECLARATION</title>
+        <title>ASL | TYPE OF DECLARATION</title>
       </Head>
       <TypeDeclaration />
     </>

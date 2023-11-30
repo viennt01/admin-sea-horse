@@ -6,7 +6,7 @@ function EditTypeOfLoadCapacityPage() {
   return (
     <>
       <Head>
-        <title>sea | EDIT LOAD CAPACITY TYPE</title>
+        <title>ASL | EDIT LOAD CAPACITY TYPE</title>
       </Head>
       <EditLoadCapacityType />
     </>

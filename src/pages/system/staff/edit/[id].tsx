@@ -6,7 +6,7 @@ function EditStaffPage() {
   return (
     <>
       <Head>
-        <title>sea | EDIT STAFF</title>
+        <title>ASL | EDIT STAFF</title>
       </Head>
       <EditStaff />
     </>

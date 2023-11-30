@@ -5,7 +5,7 @@ function CurrencyManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | CURRENCY MANAGER</title>
+        <title>ASL | CURRENCY MANAGER</title>
       </Head>
       <ManagerCurrency />
     </>

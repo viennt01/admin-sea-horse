@@ -6,7 +6,7 @@ function PricingTruckingPage() {
   return (
     <>
       <Head>
-        <title>sea | TRUCKING PRICING</title>
+        <title>ASL | TRUCKING PRICING</title>
       </Head>
       <SeaTrucking />
     </>

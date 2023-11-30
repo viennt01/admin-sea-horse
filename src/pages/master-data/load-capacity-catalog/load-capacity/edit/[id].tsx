@@ -6,7 +6,7 @@ function EditLoadCapacityPage() {
   return (
     <>
       <Head>
-        <title>sea | EDIT LOAD CAPACITY</title>
+        <title>ASL | EDIT LOAD CAPACITY</title>
       </Head>
       <EditLoadCapacity />
     </>

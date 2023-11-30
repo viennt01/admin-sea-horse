@@ -6,7 +6,7 @@ function TypeFeeManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | TYPE FEE MANAGER</title>
+        <title>ASL | TYPE FEE MANAGER</title>
       </Head>
       <ManagerTypeFee />
     </>

@@ -6,7 +6,7 @@ function CreateCustomPricingPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE CUSTOM PRICING</title>
+        <title>ASL | CREATE CUSTOM PRICING</title>
       </Head>
       <CreateCustomPricing />
     </>

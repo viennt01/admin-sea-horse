@@ -6,7 +6,7 @@ function PartnerPage() {
   return (
     <>
       <Head>
-        <title>sea | PARTNER</title>
+        <title>ASL | PARTNER</title>
       </Head>
       <Partner />
     </>

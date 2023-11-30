@@ -6,7 +6,7 @@ function UnitManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | UNIT TYPE MANAGER</title>
+        <title>ASL | UNIT TYPE MANAGER</title>
       </Head>
       <ManagerTypeUnit />
     </>

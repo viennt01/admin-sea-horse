@@ -6,7 +6,7 @@ function CreateCurrencyPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE CURRENCY</title>
+        <title>ASL | CREATE CURRENCY</title>
       </Head>
       <CreateCurrency />
     </>

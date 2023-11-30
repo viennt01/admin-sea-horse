@@ -6,7 +6,7 @@ function CreateTypeOfContainerPage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE TYPE OF CONTAINER</title>
+        <title>ASL | CREATE TYPE OF CONTAINER</title>
       </Head>
       <CreateTypeOfContainer />
     </>

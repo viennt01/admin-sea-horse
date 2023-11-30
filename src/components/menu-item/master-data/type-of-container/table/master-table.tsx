@@ -546,7 +546,7 @@ export default function MasterDataTable() {
       link.href = url;
       link.setAttribute(
         'download',
-        `SEA_TYPE_CONTAINER${getSystemDate()}.xlsx`
+        `ASL_TYPE_CONTAINER${getSystemDate()}.xlsx`
       );
       document.body.appendChild(link);
       link.click();
@@ -602,7 +602,7 @@ export default function MasterDataTable() {
       link.href = url;
       link.setAttribute(
         'download',
-        `SEA_TYPE_CONTAINER${getSystemDate()}.xlsx`
+        `ASL_TYPE_CONTAINER${getSystemDate()}.xlsx`
       );
       document.body.appendChild(link);
       link.click();

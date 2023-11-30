@@ -638,7 +638,7 @@ export default function MasterDataTable() {
       const url = window.URL.createObjectURL(new Blob([data]));
       const link = document.createElement('a');
       link.href = url;
-      link.setAttribute('download', 'SEA_TRUCKING_PRICING.xlsx');
+      link.setAttribute('download', 'ASL_TRUCKING_PRICING.xlsx');
       document.body.appendChild(link);
       link.click();
       window.URL.revokeObjectURL(url);

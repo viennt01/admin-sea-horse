@@ -6,7 +6,7 @@ function Unit() {
   return (
     <>
       <Head>
-        <title>sea | UNIT</title>
+        <title>ASL | UNIT</title>
       </Head>
       <UnitPage />
     </>

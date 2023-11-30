@@ -6,7 +6,7 @@ function TypeOfDeclarationEditPage() {
   return (
     <>
       <Head>
-        <title>sea | EDIT DECLARATION TYPE </title>
+        <title>ASL | EDIT DECLARATION TYPE </title>
       </Head>
       <EditTypeDeclaration />
     </>

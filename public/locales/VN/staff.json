@@ -44,9 +44,9 @@
         "error_required": "Vui lòng chọn vai trò"
     },
     "aslRoleID_form": {
-        "title": "Vai trò",
-        "placeholder": "Chọn vai trò",
-        "error_required": "Vui lòng chọn vai trò"
+        "title": "Vai trò (ASL)",
+        "placeholder": "Chọn vai trò (ASL)",
+        "error_required": "Vui lòng chọn vai trò (ASL)"
     },
     "gender_form": {
         "title": "Giới tính",

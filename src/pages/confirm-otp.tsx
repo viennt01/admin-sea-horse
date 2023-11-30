@@ -6,7 +6,7 @@ function ConfirmOtpPage() {
   return (
     <>
       <Head>
-        <title>sea | CONFIRM OTP</title>
+        <title>ASL | CONFIRM OTP</title>
       </Head>
       <main className={inter.className}>
         <ConfirmOtp />

@@ -6,7 +6,7 @@ function BankManagerPage() {
   return (
     <>
       <Head>
-        <title>sea | LOCATION TYPE MANAGER</title>
+        <title>ASL | LOCATION TYPE MANAGER</title>
       </Head>
       <ManagerLocationType />
     </>

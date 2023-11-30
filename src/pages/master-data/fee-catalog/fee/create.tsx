@@ -5,7 +5,7 @@ function CreateFeePage() {
   return (
     <>
       <Head>
-        <title>sea | CREATE FEE</title>
+        <title>ASL | CREATE FEE</title>
       </Head>
       <CreateFee />
     </>

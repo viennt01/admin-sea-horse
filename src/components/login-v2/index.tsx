@@ -12,7 +12,7 @@ export default function LoginPageV2() {
 
         <div className={`${style.bodyContainer}`}>
           <Row>
-            {/* <Col xs={0} sm={0} md={0} lg={14} xl={16} span={24}>
+            <Col xs={0} sm={0} md={0} lg={14} xl={16} span={24}>
               <div className={style.introCover}>
                 <div className={style.intro}>
                   <div className={style.intro}>
@@ -53,7 +53,7 @@ export default function LoginPageV2() {
                   <p>throughout Vietnam.</p>
                 </div>
               </div>
-            </Col> */}
+            </Col>
 
             <Col xs={24} md={24} lg={10} xl={8} span={24}>
               <div className={`${style.rightCover}`}>

@@ -6,7 +6,7 @@ function TypeFeeGroupEditPage() {
   return (
     <>
       <Head>
-        <title>sea | TYPE OF FEE GROUP EDIT</title>
+        <title>ASL | TYPE OF FEE GROUP EDIT</title>
       </Head>
       <EditTypeFeeGroup />
     </>

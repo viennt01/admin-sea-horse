@@ -6,7 +6,7 @@ function EditTruckingPricingPage() {
   return (
     <>
       <Head>
-        <title>sea | TRUCKING PRICING EDIT</title>
+        <title>ASL | TRUCKING PRICING EDIT</title>
       </Head>
       <EditTruckingPricing />
     </>

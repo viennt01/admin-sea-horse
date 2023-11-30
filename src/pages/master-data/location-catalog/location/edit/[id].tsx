@@ -6,7 +6,7 @@ function LocationEditPage() {
   return (
     <>
       <Head>
-        <title>sea | EDIT LOCATION</title>
+        <title>ASL | EDIT LOCATION</title>
       </Head>
       <EditLocation />
     </>
